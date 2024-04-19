@@ -1,0 +1,10 @@
+{
+  "name": "dependabot-node-version-test",
+  "version": "1.0.0",
+  "description": "A test package to validate Dependabot does not update @types/node past Node version",
+  "author": "Ashleigh Carr",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "20.10.0"
+  }
+}
